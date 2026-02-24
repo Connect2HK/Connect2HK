@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=720&lines=Initializing+Neural+Interface...;Building+Geeky_Learn+Ecosystem;AI+%7C+Cloud+%7C+Full+Stack;Shipping+Scalable+Systems+⚡">
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Connect2HK/Connect2HK/output/snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
