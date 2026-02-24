@@ -1,8 +1,5 @@
 <!-- ================= ULTRA SCI-FI PROFILE ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,100:6A00FF&height=180&section=header&text=CONNECT2HK&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
 <h3 align="center">
 ⚡ Full-Stack Engineer • AI Systems Builder • Geeky_Learn Architect
