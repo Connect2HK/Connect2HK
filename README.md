@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @Connect2HK
-- 👀 I’m interested in IT.
-- 🌱 I’m currently learning new and existing technologies.
-- 💞️ I’m looking to collaborate on any open source projects as well as mine projects.
-- 📫 reach me - linked-in :  https://www.linkedin.com/in/athemantkumar/
--                gmail:  hk2567840@gmail.com
+<!-- ================= SCI-FI CYBERPUNK PROFILE ================= -->
 
-<!---
-Connect2HK/Connect2HK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">⚡ Connect2HK ⚡</h1>
+<h3 align="center">🚀 IT Manager | Full-Stack Explorer | Geeky_Learn Builder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+Lab;Building+Geeky_Learn+Platform;AI+%7C+Cloud+%7C+Full+Stack;Always+Learning+Something+New+⚡">
+</p>
+
+---
+
+## 🧠 About Me
+
+```yaml
+Name: Connect2HK
+Role: IT Manager & Full-Stack Learner
+Focus: Geeky_Learn (AI + Compiler + React)
+Location: India
+Interests: Web Dev | Cloud | AI | Endpoint Security
+Fun Fact: Chess ♟️ + Anime 🎌 lover
